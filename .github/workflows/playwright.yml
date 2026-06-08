@@ -5,12 +5,12 @@ on:
   pull_request:
     branches: [main, master]
 env:
-  BASE_URL: ${{ secrets.BASE_URL }},
-  LOGIN_EMAIL: ${{ secrets.LOGIN_EMAIL }},
-  LOGIN_PASSWORD: ${{ secrets.LOGIN_PASSWORD }},
-  EMAIL_USER: ${{ secrets.EMAIL_USER }},
-  EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }},
-  PM_EMAIL: ${{ secrets.PM_EMAIL }},
+  BASE_URL: ${{ secrets.BASE_URL }}
+  LOGIN_EMAIL: ${{ secrets.LOGIN_EMAIL}}
+  LOGIN_PASSWORD: ${{ secrets.LOGIN_PASSWORD }}
+  EMAIL_USER: ${{ secrets.EMAIL_USER }}
+  EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+  PM_EMAIL: ${{ secrets.PM_EMAIL }}
 jobs:
   test:
     timeout-minutes: 60
