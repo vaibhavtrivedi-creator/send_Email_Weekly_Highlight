@@ -1,7 +1,6 @@
 const { TaskPage } = require("./../pages/task");
 const { LoginPage } = require("./../pages/login");
 const { test, expect } = require("@playwright/test");
-const { correctWeeklyHighlights } = require("../helpers/chatGptHelper");
 const { sendWeeklyHighlightsEmail } = require("../helpers/sendEmailHelper");
 test.describe("Task Page Tests", () => {
   let taskPage;
