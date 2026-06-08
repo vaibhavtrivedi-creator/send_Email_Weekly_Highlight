@@ -19,7 +19,16 @@ class TaskPage {
   }
 
   async clickOnNotificationButton() {
-    await this.notificationButton.click();
+    if (
+      await this.notificationButton
+        .isVisible({ timeout: 5000 })
+        .catch(() => false)
+    ) {
+      await this.notificationButton.click();
+      console.log("Notification popup handled");
+    } else {
+      console.log("Notification popup not displayed");
+    }
   }
 
   async getFirstFiveTasks() {
