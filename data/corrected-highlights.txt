@@ -1,0 +1,15 @@
+Arpit
+
+- Worked on verifying fixed issues in the EHR Web App and validated the implemented changes.
+- Performed end-to-end testing of the EHR application, including Admin functionalities.
+- Worked on the Chrome Extension Ignite app and tested its functionality.
+- Retested fixed issues based on team discussions and verified that the resolutions were working as expected.
+- Collaborated with the team to ensure overall application stability and functionality across key workflows.
+
+Vaibhav
+
+- Worked on the Indexing claim flow across different scenarios and reported identified bugs to the dev team.
+- Coordinated with the team regarding the deployment of claim charts.
+- Synced with the dev team to discuss bug details, impact, and resolution approaches.
+- Retested resolved bugs to verify fixes and ensure expected behavior.
+- Performed regression testing to validate overall application stability and prevent regressions.

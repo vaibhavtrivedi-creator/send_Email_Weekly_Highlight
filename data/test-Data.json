@@ -1,0 +1,22 @@
+[
+  {
+    "taskId": 64,
+    "employeeName": "Vaibhav Trivedi - Tasks Logs",
+    "descriptions": [
+      "Attended the client call.Synced with design team & take a understanding of Concurrent app.Gone through the Concurrent app design.Worked on end to end testing of indexing claim functionalities.",
+      "Attended the client meeting.Attended the meeting with CSI team to discuss the Claim issues.Worked on end to end testing of indexing claim functionalities.",
+      "Worked on Indexing claim functionalities with different scenarios in prod.",
+      "Worked on Indexing claim functionalities with different scenarios.Reported the bugs to dev team.Synced with dev team to discuss the bugs.Retested resolved bugs & performed regression testing."
+    ]
+  },
+  {
+    "taskId": 66,
+    "employeeName": "Arpit Bobade - Tasks Logs",
+    "descriptions": [
+      "Worked on EHR web app fixed issues.Tested with overall flow for EHR with Admin functionality.Worked on Chrome extension ignite app.Retested the fixed issues as discuused with ﻿Manish Singh (MI-513)",
+      "Worked on EHR web app fixed issues.Retested the issues and check with overall flow.Worked on Chrome extension overall flow.Checked the newly implemented functionality on extension add code in Assessment, same day close encounter scenario.",
+      "Worked on Catalyst App explorer functionality search.Checked with overall flow.Worked on EHR app empty SOAP note generation functionality.Tested the overall flow and added issues forwarded to ﻿Manish Singh (MI-513)﻿ .Worked on fixed issues foe EHR web app and retested.",
+      "Worked on Catalyst seach and explorer mode.Worked on EHR web app fixed issues and retested.As discussed with ﻿Manish Singh (MI-513)﻿ tested the EHR web app overall flow.Retested the extension fixed issues."
+    ]
+  }
+]
